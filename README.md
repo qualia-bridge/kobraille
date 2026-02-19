@@ -54,4 +54,4 @@ Especially from Braille specialists and math educators.
 
 ## 📄 License
 
-MIT License © 2025 Qualia Bridge
+MIT License © 2026 Qualia Bridge
