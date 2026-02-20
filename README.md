@@ -32,16 +32,23 @@ Star this repo to follow along!
 ### Roadmap
 - [x] v0.1 — Basic arithmetic (+, -, *, /) & parentheses
 - [x] v0.2 — Fractions (`\frac`) & mixed numbers
-- [ ] v0.3 — Exponents & subscripts (`^`, `_`)
-- [ ] v0.4 — Square roots (`\sqrt`)
-- [ ] v0.5 — Trigonometric functions
-- [ ] v1.0 — PyPI release 🚀
+- [x] v0.3 — Exponents & subscripts (`^`, `_`)
+- [x] v0.4 — Square roots (`\sqrt`)
+- [x] v0.5 — Trigonometric functions
+- [x] v1.0 — PyPI release 🚀
 
 ---
 
-## 📦 Installation (coming soon)
+## 📦 Installation
 
-pip install kobraille
+pip install kmathbraille
+
+from kmathbraille import to_braille as tb
+
+tb(r"\frac{1}{2}")   # ⠼⠃⠌⠼⠁  
+tb(r"x^{2}")         # ⠭⠘⠼⠃  
+tb(r"\sqrt{2}")      # ⠜⠼⠃  
+tb(r"\sin{x}")       # ⠖⠎⠭  
 
 ---
 
