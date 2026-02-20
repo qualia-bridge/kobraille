@@ -38,11 +38,11 @@ Star를 눌러 함께 지켜봐 주세요!
 
 ---
 
-## 📦 설치 (출시 예정)
+## 📦 설치
 
-pip install kobraille
-from kmathbraille import to_braille as tb
-
+pip install kobraille  
+from kmathbraille import to_braille as tb  
+  
 tb(r"\frac{1}{2}")   # ⠼⠃⠌⠼⠁  
 tb(r"x^{2}")         # ⠭⠘⠼⠃  
 tb(r"\sqrt{2}")      # ⠜⠼⠃  
