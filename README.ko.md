@@ -5,7 +5,7 @@
 > LaTeX 수학 수식을 한국 수학 점자로 변환하는 파이썬 라이브러리 입니다.  
 > (문화체육관광부고시 제2024-0005호)
 
-by [Qualia Bridge](https://www.linkedin.com/in/boram0905)
+by [Qualia Bridge](https://www.linkedin.com/in/iamboram)
 
 ---
 
