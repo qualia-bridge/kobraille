@@ -44,14 +44,22 @@ Star this repo to follow along!
 
 ## 📦 Installation
 
-pip install kmathbraille
+You can install it via your terminal using the following command:  
 
+```bash
+pip install kmathbraille
+```
+
+After installation, you can use it in your Python code as follows:  
+
+```python
 from kmathbraille import to_braille as tb
 
-tb(r"\frac{1}{2}")   # ⠼⠃⠌⠼⠁  
-tb(r"x^{2}")         # ⠭⠘⠼⠃  
-tb(r"\sqrt{2}")      # ⠜⠼⠃  
-tb(r"\sin{x}")       # ⠖⠎⠭  
+print(tb(r"\frac{1}{2}"))  # 결과: ⠼⠃⠌⠼⠁ (분수)
+print(tb(r"x^{2}"))        # 결과: ⠭⠘⠼⠃ (지수)
+print(tb(r"\sqrt{2}"))     # 결과: ⠜⠼⠃ (제곱근)
+print(tb(r"\sin{x}"))      # 결과: ⠖⠎⠭ (삼각함수)
+```
 
 ---
 
