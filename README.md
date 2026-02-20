@@ -1,26 +1,26 @@
 [🇰🇷 한국어](./README.ko.md) | 🇺🇸 English
 
-# kobraille ⠿
+# kmathbraille ⠿
 
 > Standard Python library for translating LaTeX math expressions
-> into Korean Braille (KS X 1107)
+> into Korean Braille  
+> (as specified in the Ministry of Culture, Sports and Tourism Notice No. 2024-5.)  
 
-by [Qualia Bridge](https://github.com/qualia-bridge)
+by [Qualia Bridge](https://www.linkedin.com/in/boram0905)
 
 ---
 
-## ✨ Why kobraille?
+## ✨ Why kmathbraille?
 
 In Korea, visually impaired students often cannot access
 math education in Braille.
 Existing tools lack accuracy, transparency, and extensibility.
 
-kobraille is built by someone who sits at a rare intersection:
+kmathbraille is built by someone who sits at a rare intersection:
 
-- 📖 Braille specialist — every rule grounded in KS X 1107
-- 📊 Statistics & Data Science M.S. — rigorous, evidence-based approach
-- 📈 Data visualization developer — clarity in how information 
-     is structured and delivered
+- 📖 Braille specialist  
+- 📊 Statistics & Data Science M.S.  
+- 📈 Data visualization developer  
 
 ---
 
@@ -36,6 +36,9 @@ Star this repo to follow along!
 - [x] v0.4 — Square roots (`\sqrt`)
 - [x] v0.5 — Trigonometric functions
 - [x] v1.0 — PyPI release 🚀
+- [ ] v1.1 — Full validation of Alphabetic Braille using in Korea
+- [ ] v2.0 — To be continued
+- [ ] v3.0 — To be continued
 
 ---
 
