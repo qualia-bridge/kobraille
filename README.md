@@ -6,7 +6,7 @@
 > into Korean Braille  
 > (as specified in the Ministry of Culture, Sports and Tourism Notice No. 2024-5.)  
 
-by [Qualia Bridge](https://www.linkedin.com/in/boram0905)
+by [Qualia Bridge](https://www.linkedin.com/in/iamboram)
 
 ---
 
